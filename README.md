@@ -1,2 +1,2 @@
-# scikit-learn-docs-ja
-scikit-learn のドキュメントの和訳
+# reading-sklearn-tutorial
+PyData Osakaの解釈を行間に挟んだscikit-learnのtutorialのnotebook集
